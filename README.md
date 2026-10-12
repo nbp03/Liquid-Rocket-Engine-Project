@@ -2,7 +2,7 @@
 
 **Overview:** A computational thermal modeling pipeline and 3D-printable hardware design (AlSi10Mg) for a pressure-fed liquid rocket engine utilizing Gaseous Oxygen (GOX) and a 70/30 Methanol-Water fuel blend.
 
-![CAD Cross Section Placeholder](link-to-your-onshape-screenshot.png)
+(https://github.com/nbp03/Liquid-Rocket-Engine-Project/blob/673c4276dc29939ebae49f1b7bdbf4acc6279dd1/RocketBody.png)
 
 ## 1. System Specifications
 * **Thrust:** 200 lbf (Horizontal Static Fire Configuration)
